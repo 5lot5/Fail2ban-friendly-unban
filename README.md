@@ -2,4 +2,4 @@
 
 Script that makes unbanning from fail2ban more friendly
 
-Feel free to use and change
+Feel free to use and/or modify.
